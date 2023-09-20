@@ -1,4 +1,8 @@
-# HR-Analytics-Presence Insights
+Developed a dynamic Power BI dashboard for HR, incorporating 3 months of employee data.
+Streamlined HR processes and significantly increased efficiency.
+Achieved a daily time savings of 3-4 hours for the HR team.
 
-●	Designed a dynamic Power BI dashboard to track employee data for the HR team, including working hours, attendance, working preferences and leaves. The dashboard streamlined HR processes and increased efficiency.
-●	This dashboard can save 3-4 hours of work for the HR daily.
+Identified key findings:
+Over the 3-month period, employee attendance decreased while the percentage of employees working from home increased.
+The percentage of sick leave taken by employees also showed an upward trend.
+Mondays had the highest employee presence, while Fridays were preferred for remote work.
